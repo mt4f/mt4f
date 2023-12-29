@@ -1,15 +1,15 @@
 <h1 align="center">Hi! I'm mt4f</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A software developer from Germany</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mt4f&label=Profile%20views&color=0e75b6&style=flat" alt="mt4f" /> </p>
 
-- 🔭 I’m currently working on [rs-args](https://github.com/mt4f/rs-args)
+- I’m currently working on [rs-args](https://github.com/mt4f/rs-args), an argument parser for rust
 
-- 🌱 I’m currently learning **Yew**
+- I’m currently learning **Yew**, a rust frontend framework
 
-- 💬 Ask me about **Rust, Kotlin, Java**
+- Ask me about **Rust, Kotlin and Java**
 
-- 📫 How to reach me **carl-neben@gmx.de**
+- How to reach me **carl-neben@gmx.de**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,10 +21,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/mt4f"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mt4f" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mt4f&show_icons=true&locale=en&layout=compact" alt="mt4f" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mt4f&show_icons=true&locale=en" alt="mt4f" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mt4f&" alt="mt4f" /></p>
-
