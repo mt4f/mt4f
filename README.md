@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mt4f&label=Profile%20views&color=0e75b6&style=flat" alt="mt4f" /> </p>
 
-- I’m currently working on [rs-args](https://github.com/mt4f/rs-args), an argument parser for rust
+- I’m currently working on rs-toolbox
 
 - I’m currently learning **Yew**, a rust frontend framework
 
